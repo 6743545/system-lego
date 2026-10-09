@@ -1,0 +1,43 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="vU#S0docPzar4#e?%a+{">WIN LEGO</variable></variables><block type="pxt-on-start" id="pUzAWARfq3Mqq,^6$!w3" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="9@Ji#a2q2rv5Ub3M6e}Y"><field name="VAR" id="vU#S0docPzar4#e?%a+{">WIN LEGO</field><value name="VALUE"><shadow type="math_number" id="Ho7/il/CKD!w9S#JKO^W"><field name="NUM">0</field></shadow></value><next><block type="controls_repeat_ext" id="p7b#15BY,8S,1|Iu6r%e"><value name="TIMES"><shadow type="math_whole_number" id="#)R`Wn+0Xxqpw*`[hv;2"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="?:Fbzd)|`z0O{M-SaZOO"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # # #
+        `</field><next><block type="device_pause" id="Sb1,Bqj,S*8]M[y;-*Rg"><value name="pause"><shadow type="timePicker" id=";|Z:AWN)sU?bcasE`Dsj"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="z4*VkKzLxVemud+]lq!+"><field name="LEDS">`
+        . . . # # 
+        . . # . # 
+        . . # . # 
+        . . # . # 
+        . . . # #
+        `</field><next><block type="device_pause" id="VckO#ml!nT_f~g:P-u1l"><value name="pause"><shadow type="timePicker" id="I-u_B[Mm6-J{VmU($M$4"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="_KVc`I,pK6tpm*b7c^uG"><field name="LEDS">`
+        . # # # . 
+        . # . . # 
+        . # . . # 
+        . # . . # 
+        . # # # .
+        `</field><next><block type="device_pause" id="-?V:1Fa|Nm%6R!DPtj=S"><value name="pause"><shadow type="timePicker" id="vYt9vI4m|/i63(3B4FA6"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="73[wzvwTDx4y;Cbb^n%1"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_pause" id="b$![T*Y|EwQ!hFm]v0!V"><value name="pause"><shadow type="timePicker" id="r$WS=_MLBl-/D/58Q%L:"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="hzGC*jq9C;FGrfi8!q#|"><field name="LEDS">`
+        . . . . . 
+        . # . . # 
+        . # # . # 
+        . # . # # 
+        . # . . #
+        `</field><next><block type="device_pause" id="4kc2G#+4/ETzP[f:3+F{"><value name="pause"><shadow type="timePicker" id="]Xrz1]OJbYyyH%hgmz*-"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="./:z%r?q1%_.0!XEj]:,"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . . . # . 
+        . . # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement><next><block type="variables_set" id="0|r6U(pat_p41W{pJnm;"><field name="VAR" id="vU#S0docPzar4#e?%a+{">WIN LEGO</field><value name="VALUE"><shadow type="math_number" id="zNW*HiWIR#]$)62B?^Hl"><field name="NUM">1</field></shadow></value><next><block type="device_show_leds" id="}NG|f6eo21GiNbejyTQ."><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="ugGyq5QEs*BC6iIF4{[F" x="-467" y="25"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="Je-kq*/T6W!6.5,n$^Ph"><field name="i">IconNames.Sad</field><next><block type="device_print_message" id="2)_9jA6Dw/nH8p^^Y0c!"><value name="text"><shadow type="text" id="6-bTCc7X_[jJ|=p^p(xI"><field name="TEXT">На вашем ПК возникла проблема мы лишь пытаемся собрать информацию об ошибке затем перезогрузим пк ваш пк называетсся LEGO SYSTEM MS-DOS</field></shadow></value></block></next></block></statement></block></xml>
